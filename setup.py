@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 NAME = 'graph-extract'
 
-CLASSIFIERS = """
-    Development Status :: 3 - Alpha
-    Intended Audience :: Science/Research
-    License :: OSI Approved :: MIT License
-"""
+CLASSIFIERS = [
+"Development Status :: 3 - Alpha",
+"Intended Audience :: Science/Research",
+"License :: OSI Approved :: MIT License"
+]
 
 VERSION = '0.0.1'
 
