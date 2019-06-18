@@ -16,8 +16,8 @@ with open('README.md') as f:
     LONG_DESCRIPTION = f.read()
 
 AUTHOR = 'Rich Lewis'
-AUTHOR_EMAIL = 'rl403@cam.ac.uk'
-URL = 'https://github.com/richlewis42/graph-extract'
+AUTHOR_EMAIL = 'opensource@richlew.is'
+URL = 'https://github.com/lewisacidic/graph-extract'
 LICENSE = 'MIT License'
 INSTALL_REQUIRES = ['numpy', 'pillow']
 
